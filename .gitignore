@@ -1,2 +1,5 @@
 #Crestron Construct working folders
 *__TEMP/
+
+#Crestron SIMPL Windows Auto Save files
+*.ASV
