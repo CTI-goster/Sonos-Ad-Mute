@@ -1,0 +1,53 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2601.21.0"
+Created = 2023-08-04 13:38:32.898155-04:00
+LastModifiedByAppHost = "1.2601.21.0"
+Modified = 2023-08-04 13:38:32.898148-04:00
+CreatedByProjectApp = "1.2601.21.0"
+LastModifiedByProjectApp = "1.2601.21.0"
+
+{Html}
+<div data-simulate-textcontent="<p style=&quot;margin-block-start: 0em!important;&quot;><span style=&quot;color: rgb(255, 255, 255); font-size: 150%;&quot;><ch5-jointotext-string receiveStateValue=&quot;51&quot; textWhenEmpty=&quot;&quot;></ch5-jointotext-string></span></p><p style=&quot;margin-block-start: 0em!important;&quot;><span style=&quot;color: rgb(255, 255, 255); font-size: 150%;&quot;><ch5-jointotext-string receiveStateValue=&quot;52&quot; textWhenEmpty=&quot;&quot;></ch5-jointotext-string></span></p><p style=&quot;margin-block-start: 0em!important;&quot;><span style=&quot;color: rgb(255, 255, 255); font-size: 150%;&quot;><ch5-jointotext-string receiveStateValue=&quot;53&quot; textWhenEmpty=&quot;&quot;></ch5-jointotext-string></span></p><p style=&quot;margin-block-start: 0em!important;&quot;><span style=&quot;color: rgb(255, 255, 255); font-size: 150%;&quot;><ch5-jointotext-string receiveStateValue=&quot;54&quot; textWhenEmpty=&quot;&quot;></ch5-jointotext-string></span></p>" labelmodeformattedtext="advanced" componentname="Formatted-Text 1" id="iodg" devicesvisited="[&quot;4K Monitor&quot;,&quot;TSW-1060&quot;]"><p style="margin-block-start: 0em!important;"><span style="color: rgb(255, 255, 255); font-size: 150%;"><ch5-jointotext-string receivestatevalue="51" textwhenempty=""></ch5-jointotext-string></span></p><p style="margin-block-start: 0em!important;"><span style="color: rgb(255, 255, 255); font-size: 150%;"><ch5-jointotext-string receivestatevalue="52" textwhenempty=""></ch5-jointotext-string></span></p><p style="margin-block-start: 0em!important;"><span style="color: rgb(255, 255, 255); font-size: 150%;"><ch5-jointotext-string receivestatevalue="53" textwhenempty=""></ch5-jointotext-string></span></p><p style="margin-block-start: 0em!important;"><span style="color: rgb(255, 255, 255); font-size: 150%;"><ch5-jointotext-string receivestatevalue="54" textwhenempty=""></ch5-jointotext-string></span></p></div><ch5-image refreshrate="0" assetid="0" id="ijv9" componentname="Ch5 Image 1" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1060&quot;]" pd-receivestateurl="50">
+              </ch5-image>
+
+{Css}
+@media (orientation: landscape){#wrapper{background-color:#4d4d4d;}#ijv9 .ch5-image{border-color:black;object-fit:contain;}#ijv9{width:343px;height:317px;pointer-events:all;left:45px;top:52px;position:absolute;display:block;}#iodg{width:1110px;height:539px;text-align:center;padding-top:1rem;font-family:Roboto;font-size:px;overflow:hidden;text-underline-offset:0.3em;line-height:normal;color:black;border-color:black;background-color:#00000000;left:725px;top:79px;position:absolute;display:block;}#ijv9-2 .ch5-image{object-fit:contain;border-color:black;}}@media (orientation: portrait){#wrapper{background-color:#4d4d4d;}#ijv9 .ch5-image{border-color:black;object-fit:contain;}#ijv9{width:343px;height:317px;pointer-events:all;left:45px;top:52px;position:absolute;display:block;}#iodg{width:1110px;height:539px;text-align:center;padding-top:1rem;font-family:Roboto;font-size:px;overflow:hidden;text-underline-offset:0.3em;line-height:normal;color:black;border-color:black;background-color:#00000000;left:725px;top:79px;position:absolute;display:block;}#ijv9-2 .ch5-image{object-fit:contain;border-color:black;}}@media (orientation: landscape) and (max-width: 2561px){body{background-color:#4d4d4d;}#iodg{width:1110px;height:539px;text-align:center;padding-top:1rem;font-family:Roboto;font-size:px;overflow:hidden;text-underline-offset:0.3em;line-height:normal;color:black;border-color:black;background-color:#00000000;left:725px;top:79px;position:absolute;display:block;}}@media (orientation: landscape) and (max-width: 1281px){body{background-color:#4d4d4d;}#ijv9 .ch5-image{border-color:black;object-fit:contain;}#ijv9{width:343px;height:317px;pointer-events:all;left:45px;top:52px;position:absolute;display:block;}#iodg{display:block;width:815px;left:402px;height:317px;top:52px;position:absolute;font-size:large;custom-font-size:largename;text-align:left;}#ijv9-2 .ch5-image{object-fit:contain;border-color:black;}body{background-color:#4d4d4d;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "main"
+PageMode = "absolute"
+Id = "fc4585e0-6f44-4457-afed-f1ab9e145629"
+StartPage = "True"
+VisibilityJoin = "0"
+
+[[Elements]]
+Name = "Formatted-Text"
+Type = "Ch5FormattedText-emulator"
+Content = "<p style=\"margin-block-start: 0em!important;\"><span style=\"color: rgb(255, 255, 255); font-size: 150%;\"><ch5-jointotext-string receiveStateValue=\"51\" textWhenEmpty=\"\"></ch5-jointotext-string></span></p><p style=\"margin-block-start: 0em!important;\"><span style=\"color: rgb(255, 255, 255); font-size: 150%;\"><ch5-jointotext-string receiveStateValue=\"52\" textWhenEmpty=\"\"></ch5-jointotext-string></span></p><p style=\"margin-block-start: 0em!important;\"><span style=\"color: rgb(255, 255, 255); font-size: 150%;\"><ch5-jointotext-string receiveStateValue=\"53\" textWhenEmpty=\"\"></ch5-jointotext-string></span></p><p style=\"margin-block-start: 0em!important;\"><span style=\"color: rgb(255, 255, 255); font-size: 150%;\"><ch5-jointotext-string receiveStateValue=\"54\" textWhenEmpty=\"\"></ch5-jointotext-string></span></p>"
+
+[Elements.Attributes]
+data-simulate-textcontent = "<p style=\"margin-block-start: 0em!important;\"><span style=\"color: rgb(255, 255, 255); font-size: 150%;\"><ch5-jointotext-string receiveStateValue=\"51\" textWhenEmpty=\"\"></ch5-jointotext-string></span></p><p style=\"margin-block-start: 0em!important;\"><span style=\"color: rgb(255, 255, 255); font-size: 150%;\"><ch5-jointotext-string receiveStateValue=\"52\" textWhenEmpty=\"\"></ch5-jointotext-string></span></p><p style=\"margin-block-start: 0em!important;\"><span style=\"color: rgb(255, 255, 255); font-size: 150%;\"><ch5-jointotext-string receiveStateValue=\"53\" textWhenEmpty=\"\"></ch5-jointotext-string></span></p><p style=\"margin-block-start: 0em!important;\"><span style=\"color: rgb(255, 255, 255); font-size: 150%;\"><ch5-jointotext-string receiveStateValue=\"54\" textWhenEmpty=\"\"></ch5-jointotext-string></span></p>"
+labelmodeformattedtext = "advanced"
+componentName = "Formatted-Text 1"
+id = "iodg"
+devicesVisited = "[\"4K Monitor\",\"TSW-1060\"]"
+[[Elements]]
+Type = "Ch5 Image"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+refreshrate = "0"
+assetid = "0"
+id = "ijv9"
+componentName = "Ch5 Image 1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1060\"]"
+pd-receivestateurl = "50"
+
